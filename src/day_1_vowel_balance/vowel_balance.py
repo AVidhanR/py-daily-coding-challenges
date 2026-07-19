@@ -12,12 +12,12 @@ def is_balanced(s: str) -> bool:
     s = s.lower()
     vowels = "aeiou"
 
-    l = len(s)
-    first_half = s[:l//2]
-    second_half = s[l//2:]
+    length = len(s)
+    first_half = s[:length//2]
+    second_half = s[length//2:]
     f = 0
     sc = 0
-    if l % 2 == 0:
+    if length % 2 == 0:
         for i in first_half:
             if i in vowels:
                 f += 1
