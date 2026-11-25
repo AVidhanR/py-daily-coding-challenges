@@ -8,6 +8,7 @@ I am following freeCodeCamp's "Daily Coding Challenge" practice problems, just m
 ### Challenges `DONE` until now
 1. [Vowel Balance](https://www.freecodecamp.org/learn/daily-coding-challenge/08-11)
 2. [Base Check](https://www.freecodecamp.org/learn/daily-coding-challenge/08-12)
+3. [Fibinacci Sequence](https://www.freecodecamp.org/learn/daily-coding-challenge/08-13)
 
 ### Python Learning Websites/Docs
 
